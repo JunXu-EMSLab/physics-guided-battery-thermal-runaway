@@ -6,7 +6,7 @@
 
 **Version date:** 09/09/2026
 
-> Preprint: this version has been reviewed and is under revision based on anonymous reviewers' feedback.
+> Preprint: this version has been reviewed by the Journal of Energy Chemistry (Elsevier) and is under revision based on anonymous reviewers' feedback.
 
 ## Abstract
 
